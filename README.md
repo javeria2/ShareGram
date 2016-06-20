@@ -21,4 +21,4 @@
 >Further improvements:
 
 - Facebook login integration by using the FBSDK. 
-- Asking the user to upload an image as a profile picture in addition to general info and displaying that in the table view.
+- Asking the user to upload an image as a profile picture in addition to general info and displaying it in the table view.
